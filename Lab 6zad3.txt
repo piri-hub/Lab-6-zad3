@@ -1,0 +1,9 @@
+def dodawanie (a,b,c):
+x=a+b+c
+return x
+a=2
+b=3
+c=4
+wynik = dodawanie(a,b,c)
+print(wynik)
+print(dodawanie(2,3,4))
